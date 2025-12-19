@@ -8,7 +8,7 @@ YouTubeのチュートリアルを参考に制作した、スタジオライテ�
 ### Final Render
 ![メイン](renders/bear.png)
 
-#### 🔍 Details & Topology
+#### Details & Topology
 | 側面 | 背面 | ワイヤーフレーム |
 | :---: | :---: | :---: |
 | ![側面1](renders/bear_side.png) | ![側面2](renders/bear_back.png) | ![ワイヤー](renders/bear_wire.png) |
@@ -57,7 +57,7 @@ YouTubeのチュートリアルを参考に制作した、スタジオライテ�
 ### Final Render
 ![メイン](renders/gun.png)
 
-#### 🔍 Details & Topology
+#### Details & Topology
 | 正面 | 背面 | ワイヤーフレーム |
 | :---: | :---: | :---: |
 | ![側面1](renders/gun_side1.png) | ![側面2](renders/gun_side2.png) | ![ワイヤー](renders/gun_wire.png) |
