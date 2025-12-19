@@ -5,6 +5,14 @@
 ### 概要
 YouTubeのチュートリアルを参考に制作した、スタジオライティングのクマの3Dモデリング作品
 
+### Final Render
+![メイン](renders/bear.png)
+
+#### 🔍 Details & Topology
+| 側面 | 背面 | ワイヤーフレーム |
+| :---: | :---: | :---: |
+| ![側面1](renders/bear_side.png) | ![側面2](renders/bear_back.png) | ![ワイヤー](renders/bear_wire.png) |
+
 ### 使用技術
 | 項目 | 内容 |
 | :--- | :--- |
@@ -45,6 +53,14 @@ YouTubeのチュートリアルを参考に制作した、スタジオライテ�
 ### 概要
 
 本作品は、人気FPSゲーム『VALORANT』に登場する武器スキン「ネオフロンティア シェリフ（レベル4 / ヴァリアント1 ゴールド）」をモチーフにした3Dモデリング作品である。近未来的なデザインと、リボルバーが持つクラシックな雰囲気が融合した独特のデザインを再現している。
+
+### Final Render
+![メイン](renders/gun.png)
+
+#### 🔍 Details & Topology
+| 正面 | 背面 | ワイヤーフレーム |
+| :---: | :---: | :---: |
+| ![側面1](renders/gun_side1.png) | ![側面2](renders/gun_side2.png) | ![ワイヤー](renders/gun_wire.png) |
 
 ### 使用技術
 | 項目 | 内容 |
