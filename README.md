@@ -97,7 +97,7 @@ YouTubeのチュートリアルを参考に制作した、スタジオライテ�
 スタジオジブリの名作『となりのトトロ』の雨のバス停シーンをモチーフにした、3Dアニメーション作品である。キャラクターの造形に加え、雨のエフェクト実装や、実写背景と3Dモデルを馴染ませる環境構築に注力した。
 
 ### Final Render
-<video src="renders/totoro.mp4" width="100%" controls muted loop autoplay></video>
+https://github.com/user-attachments/assets/880c66e8-7091-469e-a747-aa3c3e00c70c
 
 #### Details & Topology
 | 側面 | 背面 | ワイヤーフレーム |
