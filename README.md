@@ -135,4 +135,6 @@ https://github.com/user-attachments/assets/880c66e8-7091-469e-a747-aa3c3e00c70c
 3. **背景と調和させるライティング**
 * 背景の「雨の森」の画像と3Dモデルを違和感なく融合させるため、トトロの背後から背景方向へエリアライトを照射し、、画像とモデルの間の「空気感」を擬似的に作り出し、自然な調和を実現した。
 
-> **参考資料** [【初心者向け】Blenderでシンプルな傘をモデリング / Umbrella modeling【Blender】/モルト/3Dモデリング](https://youtu.be/E7HnlCa-pNk?si=srb5Yl9ci2fj9geY)[【blender 雨】雨を降らせよう！（ゆっくりボイス）/e3D](https://youtu.be/auK09SBmEv8?si=t7rqXOTN5JYiQcP6)
+> **参考資料**
+* [【初心者向け】Blenderでシンプルな傘をモデリング / Umbrella modeling【Blender】/モルト/3Dモデリング](https://youtu.be/E7HnlCa-pNk?si=srb5Yl9ci2fj9geY)
+* [【blender 雨】雨を降らせよう！（ゆっくりボイス）/e3D](https://youtu.be/auK09SBmEv8?si=t7rqXOTN5JYiQcP6)
